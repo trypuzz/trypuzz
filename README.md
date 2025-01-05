@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yo (Йоу) 👋
 
 <h1 align="center">Hi👋 I'm Ivan Trypuz</h1>
 <h3 align="center">I'm an Android developer | AQA (Kotlin) </h3>
